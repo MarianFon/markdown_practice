@@ -37,7 +37,8 @@ ingredient_2 = baking powder
 ingredient_3 = shortening
 ingredient_4 = yeast_sugar_water
 ingredients = ingredient_1 + ingredient_2 + ingredient_3 + ingredient_4
-mix(ingredients)```
+mix(ingredients)
+```
 
 4. Knead the combined mixture until the texture of the dough becomes fine. Let the dough rise by setting it aside for at least an hour (place in the mixing bowl and cover the top ).
 
