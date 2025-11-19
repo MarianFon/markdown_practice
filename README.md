@@ -5,6 +5,7 @@
 
 ### Ingredients
 | Ingredients | Amount |
+| ------------ | -------- | 
 | water | 2 cups |
 | sugar | 2 1/2 tablespoons |
 | dry yeast | 1 pouch |
