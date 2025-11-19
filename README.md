@@ -32,12 +32,12 @@
 1. Make the dough by placing warm water in a bowl then add the yeast and sugar and mix well. Leave the mixture for 10 to 15 minutes
 2. In a mixing bowl, put-in the flour, baking powder, shortening (or lard), and the yeast-sugar-water mixture then mix well (bubbles should have formed on top by then).
 
-`ingredient_1 = flour
+```ingredient_1 = flour
 ingredient_2 = baking powder
 ingredient_3 = shortening
 ingredient_4 = yeast_sugar_water
 ingredients = ingredient_1 + ingredient_2 + ingredient_3 + ingredient_4
-mix(ingredients)`
+mix(ingredients)```
 
 4. Knead the combined mixture until the texture of the dough becomes fine. Let the dough rise by setting it aside for at least an hour (place in the mixing bowl and cover the top ).
 
